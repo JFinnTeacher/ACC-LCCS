@@ -1,5 +1,5 @@
 """
-Programm: Pseudocode testt
+Programm: Pseudocode test
 J Finn
 """
 
