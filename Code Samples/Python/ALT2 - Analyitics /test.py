@@ -1,9 +1,0 @@
-print("Hello World")
-print(10**3)
-for i in range(10):
-	print(i)
-
-age = int(input("What number do you want to count to: "))
-
-for i in range(age):
-	print(i)
