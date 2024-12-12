@@ -23,3 +23,16 @@ Below are links to useful resources that have been shared in the class with stud
 ### Networking
 
 - [Network Animations](https://aboelela.site/projects/net-seal/animations/) - Series of network animations explaining how they work.
+- [Network Protocol Matching Quiz](https://wordwall.net/resource/17098513/computing/ks4-network-protocols) - Word matching quiz for Network Protocols
+- [Network Hardware Word Match Quiz](https://wordwall.net/resource/4384280/computing/14-network-hardware) - Word Match Quiz on Network Hardware
+- [Network Design Drag and Drop](https://www.101computing.net/network-design-drag-drop/) - Identify Common Network Hardware
+
+### Data Sources (ALT2)
+
+- [Our World in Data](https://ourworldindata.org/) - Collection of Free Data Sources that can be downloaded for use in Analytics
+
+### Operating Systems
+
+- [OS Definitions](https://wordwall.net/resource/17405688/-8-computer-operating-system-) - Match OS words to their definitions
+- [Virtual Machines Online](https://www.onworks.net/programs/vm-online) - Run Windows, Mac or Linux in Virtual Machine in the Browser
+- [PCJs machines](https://www.pcjs.org/) - Old Operating systems thet run in emulators in your browser.
