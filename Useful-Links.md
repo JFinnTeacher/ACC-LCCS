@@ -36,3 +36,7 @@ Below are links to useful resources that have been shared in the class with stud
 - [OS Definitions](https://wordwall.net/resource/17405688/-8-computer-operating-system-) - Match OS words to their definitions
 - [Virtual Machines Online](https://www.onworks.net/programs/vm-online) - Run Windows, Mac or Linux in Virtual Machine in the Browser
 - [PCJs machines](https://www.pcjs.org/) - Old Operating systems thet run in emulators in your browser.
+
+### Microbit
+
+- [Microbit and AI](https://microbit.org/get-started/user-guide/microbit-createai/) - explore AI through movement and machine learning (ML)
