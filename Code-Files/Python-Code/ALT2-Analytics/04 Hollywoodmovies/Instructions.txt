@@ -1,0 +1,5 @@
+- Opens the file
+- Creates a list of Movies
+-Creates a list of World Wide Sales (Column J) without the dollar sign
+- Creates a bar chart to show the World Wide Sales for each movie
+- Find the max, min and mean World Wide Sales
