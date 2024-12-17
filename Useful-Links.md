@@ -31,6 +31,8 @@ Below are links to useful resources that have been shared in the class with stud
 
 - [Our World in Data](https://ourworldindata.org/) - Collection of Free Data Sources that can be downloaded for use in Analytics
 - [Statista](https://www.statista.com/) - Collection of Free to use data sources
+- [Kaggle](https://www.kaggle.com/) - Free to access Datasets. Does not require login
+- 
 
 ### Operating Systems
 
