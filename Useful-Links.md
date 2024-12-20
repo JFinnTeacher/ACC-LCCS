@@ -4,6 +4,9 @@ Below are links to useful resources that have been shared in the class with stud
 
 ## Github Repositories
 
+* [Open Source Society University Path to Computer Science](https://github.com/ossu/computer-science) - A roadmap to learning Computer science using freely available resources
+* 
+
 ## Useful Sites
 
 ### IDEs
